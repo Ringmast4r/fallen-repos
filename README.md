@@ -1,8 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:8B0000&height=220&section=header&text=FALLEN%20REPOS&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=The%20Graveyard%20|%20Preservation%20Archive%20for%20Deleted%20%26%20Banned%20Repositories&descSize=18&descAlignY=55"/>
+<div align="center">
+
+<img width="100%" alt="FALLEN REPOS" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:742D32&height=220&section=header&text=FALLEN%20REPOS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GitHub%20%7C%20Markdown%20%7C%20Archive%20%7C%20Preservation&descSize=16&descAlignY=58"/>
+
+[`GitHub`](https://github.com/) [`Markdown`](https://www.markdownguide.org/) `Archive` `Preservation` - Preservation archive of GitHub repositories lost to DMCA, bans, deletions, and shadow bans
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=742D32&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Preservation+archive+of+GitHub+repositories+lost+to+DMCA%2C+bans%2C+deletions%2C...%3BGitHub+%2F+Markdown+%2F+Archive+%2F+Preservation)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-fallen--repos-742D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/fallen-repos)
+[![Format](https://img.shields.io/badge/Format-Markdown-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/fallen-repos/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/fallen-repos?style=flat-square&color=742D32)](https://github.com/Ringmast4r/fallen-repos/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/fallen-repos?style=flat-square&color=742D32)](https://github.com/Ringmast4r/fallen-repos/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/fallen-repos?style=flat-square&color=742D32)](https://github.com/Ringmast4r/fallen-repos)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/fallen-repos?style=flat-square&color=742D32)](https://github.com/Ringmast4r/fallen-repos/commits/main)
+
+</div>
+
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B0000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+THE+GRAVEYARD+%E2%96%88%E2%96%88%E2%96%88;Repos+disappear.+We+remember.;DMCA+%7C+Banned+%7C+Nuked+%7C+Shadow+Banned+%7C+Deleted)](https://git.io/typing-svg)
 
 <br>
 
@@ -344,4 +363,10 @@ PRs should include:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:000000&height=120&section=footer"/>
+---
+
+<div align="center">
+
+<img width="100%" alt="FALLEN REPOS footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:742D32,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20PRESERVATION&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
